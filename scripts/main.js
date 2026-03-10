@@ -780,7 +780,7 @@ December 2022 - Present | Mysuru
 SKILLS
 ------
 • Programming: Python, Java (Basic), C
-• Web & DB: HTML, CSS, SQL
+• Web & DB: HTML, CSS, JS, SQL
 • ML Basics: Supervised & Unsupervised Learning, Data preprocessing, Basic ML models
 • Data Tools: Pandas, Matplotlib, Excel, Power BI
 • Tools: Git, GitHub, Jupyter Notebook, VS Code, Google Colab
